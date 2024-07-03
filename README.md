@@ -5,6 +5,7 @@
 I'm an undergraduate Software Engineering student at Ankara Science University.  I really do love developing projects based on the concept of OOP. I also like designing in general.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayusakoc)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayusakoc)](https://github.com/anuraghazra/github-readme-stats)
 
 
