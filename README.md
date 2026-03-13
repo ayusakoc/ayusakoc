@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Yuşa Koç</h1>
 
-<h3 align="center">Java Developer</h3>
+<h3 align="center">AI Engineer</h3>
 
 I'm an undergraduate Software Engineering student at Ankara Science University.  I really do love developing projects based on the concept of OOP. I also like designing in general.
 
