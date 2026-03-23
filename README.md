@@ -35,11 +35,7 @@ I am an AI Engineer focused on high-performance deep learning solutions. My work
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayusakoc&show_icons=true&theme=radical&count_private=true" alt="Yuşa's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusakoc&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+
 
 ---
 
