@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Medical_Image_Segmentation-red?style=flat-square&logo=pytorch" />
   <img src="https://img.shields.io/badge/Focus-RAG_&_LLM_Inference-blue?style=flat-square&logo=ollama" />
-  <img src="https://img.shields.io/badge/Hardware-RTX_5070_Ti_Dedicated-green?style=flat-square&logo=nvidia" />
+ 
 </p>
 
 ---
