@@ -12,7 +12,7 @@
 ### Technical Expertise
 I am an AI Engineer focused on high-performance deep learning solutions. My work bridges the gap between complex medical imaging research and scalable LLM deployments.
 
-* **Medical Image Segmentation:** Specialized in the nnU-Net framework. Currently working on high-precision segmentation of Liver, Tumors, and Hepatic Vessels using datasets like TotalSegmentator and CRLM.
+* **Medical Image Segmentation:** Specialized in the nnU-Net framework. Currently working on high-precision segmentation of Liver, Tumors, and Hepatic Vessels using datasets like TotalSegmentator [...]
 * **RAG Pipelines:** Architecting Retrieval-Augmented Generation systems using FastAPI, ChromaDB, and Nomic Embeddings for context-aware AI applications.
 * **LLM Optimization:** Local LLM deployment and inference optimization using Ollama and Llama.cpp.
 * **Software Craftsmanship:** Strong foundation in OOP principles and deploying containerized AI models via Docker.
@@ -47,5 +47,5 @@ I am an AI Engineer focused on high-performance deep learning solutions. My work
 </p>
 
 <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=ayusakoc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=ayusakoc&label=Profile&color=0e75b6&style=flat" alt="Profile" /> 
 </p>
